@@ -1,1 +1,0 @@
-{"mappings":"AAIAA,SAASC","sources":["src/js/01-color-switcher.js"],"sourcesContent":["function getRandomHexColor() {\n  return `#${Math.floor(Math.random() * 16777215).toString(16)}`;\n}\n\ndocument.querySelector();\n"],"names":["document","querySelector"],"version":3,"file":"01-color-switcher.7f3a3319.js.map"}
